@@ -1,0 +1,30 @@
+.fakeheader {
+  color: darkseagreen;
+  font-size: 300%;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.paragraph {
+  color: lightsalmon;
+  font-family: cursive;
+}
+
+.list1 {
+  background-color: aquamarine;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.list2 {
+  background-color:darkorchid;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.table1 {
+  background-color: white;
+  font-family:fantasy;
+}
+
+.table2 {
+  background-color: navy;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
